@@ -56,6 +56,7 @@ Open `http://localhost:3000` in your browser.
 2. Speak your query to the AI assistant.
 3. The AI will respond with both **text** and **speech**.
 4. Use **Clear** to reset the conversation.
+5. upload the textbook by drag and drop your pdf and click **upload textbook**
 
 ![ui](images/bot.png)
 ![ui](images/upload.png)
